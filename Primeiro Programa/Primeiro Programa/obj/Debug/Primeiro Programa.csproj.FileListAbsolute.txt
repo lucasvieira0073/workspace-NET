@@ -1,0 +1,7 @@
+E:\workspace-NET\Primeiro Programa\Primeiro Programa\bin\Debug\Primeiro Programa.exe.config
+E:\workspace-NET\Primeiro Programa\Primeiro Programa\bin\Debug\Primeiro Programa.exe
+E:\workspace-NET\Primeiro Programa\Primeiro Programa\bin\Debug\Primeiro Programa.pdb
+E:\workspace-NET\Primeiro Programa\Primeiro Programa\obj\Debug\Primeiro Programa.csproj.CoreCompileInputs.cache
+E:\workspace-NET\Primeiro Programa\Primeiro Programa\obj\Debug\Primeiro Programa.exe
+E:\workspace-NET\Primeiro Programa\Primeiro Programa\obj\Debug\Primeiro Programa.pdb
+E:\workspace-NET\Primeiro Programa\Primeiro Programa\obj\Debug\Primeiro Programa.csprojResolveAssemblyReference.cache

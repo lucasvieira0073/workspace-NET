@@ -1,0 +1,7 @@
+E:\workspace-NET\Logger\Logger\bin\Debug\Logger.exe.config
+E:\workspace-NET\Logger\Logger\bin\Debug\Logger.exe
+E:\workspace-NET\Logger\Logger\bin\Debug\Logger.pdb
+E:\workspace-NET\Logger\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache
+E:\workspace-NET\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+E:\workspace-NET\Logger\Logger\obj\Debug\Logger.exe
+E:\workspace-NET\Logger\Logger\obj\Debug\Logger.pdb

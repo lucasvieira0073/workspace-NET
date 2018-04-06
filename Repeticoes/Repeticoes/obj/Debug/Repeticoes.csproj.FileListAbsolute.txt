@@ -1,0 +1,7 @@
+E:\workspace-NET\Repeticoes\Repeticoes\bin\Debug\Repeticoes.exe.config
+E:\workspace-NET\Repeticoes\Repeticoes\bin\Debug\Repeticoes.exe
+E:\workspace-NET\Repeticoes\Repeticoes\bin\Debug\Repeticoes.pdb
+E:\workspace-NET\Repeticoes\Repeticoes\obj\Debug\Repeticoes.csprojResolveAssemblyReference.cache
+E:\workspace-NET\Repeticoes\Repeticoes\obj\Debug\Repeticoes.csproj.CoreCompileInputs.cache
+E:\workspace-NET\Repeticoes\Repeticoes\obj\Debug\Repeticoes.exe
+E:\workspace-NET\Repeticoes\Repeticoes\obj\Debug\Repeticoes.pdb

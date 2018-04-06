@@ -1,0 +1,6 @@
+E:\workspace-NET\Colecoes\Colecoes\bin\Debug\Colecoes.exe.config
+E:\workspace-NET\Colecoes\Colecoes\bin\Debug\Colecoes.exe
+E:\workspace-NET\Colecoes\Colecoes\bin\Debug\Colecoes.pdb
+E:\workspace-NET\Colecoes\Colecoes\obj\Debug\Colecoes.csproj.CoreCompileInputs.cache
+E:\workspace-NET\Colecoes\Colecoes\obj\Debug\Colecoes.exe
+E:\workspace-NET\Colecoes\Colecoes\obj\Debug\Colecoes.pdb

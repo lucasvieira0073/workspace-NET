@@ -1,0 +1,7 @@
+E:\workspace-NET\Classes\Classes\bin\Debug\Classes.exe.config
+E:\workspace-NET\Classes\Classes\bin\Debug\Classes.exe
+E:\workspace-NET\Classes\Classes\bin\Debug\Classes.pdb
+E:\workspace-NET\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+E:\workspace-NET\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+E:\workspace-NET\Classes\Classes\obj\Debug\Classes.exe
+E:\workspace-NET\Classes\Classes\obj\Debug\Classes.pdb
